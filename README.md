@@ -46,6 +46,4 @@ An interactive Streamlit dashboard that visualizes ball-by-ball cricket data to 
 
 ---
 
-## 📬 Contact
-
-Made with ❤️ by [Preyas Maniar](https://github.com/PreyasManiar)
+Made by [Preyas Maniar](https://github.com/PreyasManiar)
